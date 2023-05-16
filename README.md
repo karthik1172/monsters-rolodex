@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#[ClickHere](https://karthik1172.github.io/monsters-rolodex/) for demo
+# [ClickHere](https://karthik1172.github.io/monsters-rolodex/) for demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
